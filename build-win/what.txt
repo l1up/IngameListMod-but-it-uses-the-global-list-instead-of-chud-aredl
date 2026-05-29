@@ -1,0 +1,15 @@
+{
+	"geode": "5.7.1",
+	"version": "v1.2.5",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081",
+		"android": "2.2081"
+	},
+	"id": "adyagd.ingamelistmod",
+	"name": "IngameListMod",
+	"developer": "AdyaGD",
+	"description": "Shows the position of a demon/challenge level in the list.",
+	"repository": "https://github.com/AdyaGMD/IngameListMod"
+}
