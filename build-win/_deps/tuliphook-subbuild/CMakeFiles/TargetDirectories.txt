@@ -1,3 +1,0 @@
-/home/mel/IngameListMod/build-win/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate.dir
-/home/mel/IngameListMod/build-win/_deps/tuliphook-subbuild/CMakeFiles/edit_cache.dir
-/home/mel/IngameListMod/build-win/_deps/tuliphook-subbuild/CMakeFiles/rebuild_cache.dir
