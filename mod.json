@@ -10,6 +10,6 @@
 	"id": "l1up.ingamelistmod",
 	"name": "IngameListMod",
 	"developer": "l1up",
-	"description": "Shows the position of a demon/challenge level in the list but using the AREDL instead of the chud one.",
+	"description": "Shows the position of a demon/challenge level in the list but using the GlobalList instead of the chud AREDL.",
 	"repository": "https://github.com/l1up/IngameListMod-but-it-uses-the-global-list-instead-of-chud-aredl"
 }
